@@ -29,7 +29,7 @@ object Shape {
  * 
  * Muutimme palojen gridejä niin, että ne "alkavat" aivan oman gridinsä yläreunasta. Näin palat alkavat putoamaan
  * myös peliruudun yläreunasta.
- * @author Katri Saarinen 530347, Roosa Laurikainen 529510
+ * @author Katri & Roosa
  */
 abstract class Shape {
   

@@ -8,7 +8,7 @@ import java.awt.event._
 
 /**
  * Mahdollistaa koodin ilmestymisen näytölle - tekee siis kaiken työn, jotta peliä voidaan pelata.
- * @author Katri Saarinen 530347, Roosa Laurikainen 529510
+ * @author Katri & Roosa
  */
 object View extends SimpleSwingApplication {
   

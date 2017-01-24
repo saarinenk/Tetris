@@ -3,7 +3,7 @@ import kierros5.model._
 
 /**
  * Kuvaa yhtä pelin palikkaa, jolla on muoto (shape). Palikkaa voidaan liikuttaa ja kääntää. 
- * @author Katri Saarinen 530347, Roosa Laurikainen 529510
+ * @author Katri & Roosa
  */
 
 class Piece(var x: Int, var y: Int, val shape: Shape, val grid: GameGrid) {

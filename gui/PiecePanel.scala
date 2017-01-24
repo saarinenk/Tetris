@@ -8,7 +8,7 @@ import java.awt.Color
 /**
  * PiecePanel on peliruudun oikealla puolella oleva pieni paneeli, jossa näkyy seuraava pala.
  * 
- * @author Katri Saarinen 530347, Roosa Laurikainen 529510
+ * @author Katri & Roosa
  */
 class PiecePanel(piece: Piece) extends GridPanel(5, 5) {
   val square = 30  // ruudukon ruudun leveys / korkeus (neliö)

@@ -1,11 +1,11 @@
 package kierros5.model
 
 /**
- * @author katri
+ * @author Katri
  */
 object TestApp extends App {
 
-  //GamePanelin toimintaa testattu GamePanel-luokassa GamePanel-objektilla
+  //GamePanelin toimintaa testattu GamePanel-luokassa GamePanel-objektilla / Testing the GamePanel-class
 
   val grid = new GameGrid(20, 11)
 

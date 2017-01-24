@@ -3,7 +3,7 @@ package kierros5.model
 /**
  * Direction kuvaa neljää eri suuntaa, joiden avulla palikkaa liikutetaan / käännetään
  * 
- * @author Katri Saarinen 530347, Roosa Laurikainen 529510
+ * @author Katri & Roosa
  */
 object Direction extends Enumeration {
   type Direction = Value

@@ -2,7 +2,7 @@ package kierros5.model
 import scala.collection.mutable.Buffer
 
 /**
- * @author Katri Saarinen 530347, Roosa Laurikainen 529510
+ * @author Katri & Roosa
  */
 class GameGrid(height: Int, width: Int) {
   private var grid: Array[Array[Shape]] = Array.fill(height, width)(` `)    // kuvaa peliruudukkoa
