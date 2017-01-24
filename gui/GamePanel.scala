@@ -7,7 +7,7 @@ import java.awt.Color
 
 /**
  * GamePaneliin ilmestyy peliruudukko, josta varsinainen peli näkyy.
- * @author Katri Saarinen 530347, Roosa Laurikainen 529510
+ * @author Katri & Roosa
  */
 
 // testataan GamePanelin toimintaa testiohjelmalla
